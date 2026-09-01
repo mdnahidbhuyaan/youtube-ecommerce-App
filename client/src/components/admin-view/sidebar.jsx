@@ -2,7 +2,7 @@
 
 function AdminSideBar() {
     return ( 
-      <div className="">Admin SideBar</div>
+      <div className="">Admin Sidebar</div>
      );
 }
 

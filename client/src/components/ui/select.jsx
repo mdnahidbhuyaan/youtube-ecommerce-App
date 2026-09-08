@@ -1,4 +1,3 @@
-import * as React from "react"
 import { Select as SelectPrimitive } from "@base-ui/react/select"
 
 import { cn } from "@/lib/utils"
@@ -176,6 +175,7 @@ function SelectScrollDownButton({
 }
 
 export {
+  // eslint-disable-next-line react-refresh/only-export-components
   Select,
   SelectContent,
   SelectGroup,

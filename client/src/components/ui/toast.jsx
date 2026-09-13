@@ -237,6 +237,8 @@ export {
   ToastViewport,
   // eslint-disable-next-line react-refresh/only-export-components
   createToastManager,
+  // eslint-disable-next-line react-refresh/only-export-components
   toast,
+  // eslint-disable-next-line react-refresh/only-export-components
   useToastManager,
 }
